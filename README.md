@@ -26,4 +26,4 @@ $ python3 demo.py
 ```
 
 ## Demo
-<img width="100%" src="result/output_4.gif"/>
+<img width="50%" src="result/output_4.gif"/>
